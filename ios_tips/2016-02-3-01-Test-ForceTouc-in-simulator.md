@@ -7,8 +7,7 @@ tip-description: As an individual developer we cannot buy all type of iOS device
 
 
 ---
- ### Test Force Tcuh by using - 
-[SBShortcutMenuSimulator](https://github.com/DeskConnect/SBShortcutMenuSimulator)
+#### Test Force Tocuh by using -[SBShortcutMenuSimulator](https://github.com/DeskConnect/SBShortcutMenuSimulator)
 
 ####Note:
 If the testing is not working fine in simulator. Try resetting the simulator.
