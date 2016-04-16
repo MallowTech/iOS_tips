@@ -1,6 +1,6 @@
 #iOS_Tips
 
-Being an developer I want to share and collect the basic and important things in iOS. This will be very useful for iOS starters, improving efficienyc in the code and we can also get all the Tips in one place. As I am working in an company, I have got impression from our rails team [Rails Tips](https://github.com/logeshmallow/rails_tips).
+Being an developer I want to share and collect the basic and important things in iOS. This will be very useful for iOS starters, improving efficiency in the code and we can also get all the Tips in one place. As I am working in an company, I have got impression from our rails team [Rails Tips](https://github.com/logeshmallow/rails_tips).
 
 Please free to contribute your iOS_Tips here. Also any improvements and suggestion are kindly welcome.
 
