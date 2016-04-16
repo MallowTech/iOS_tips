@@ -4,6 +4,9 @@ Being an developer I want to share and collect the basic and important things in
 
 Please free to contribute your iOS_Tips here. Also any improvements and suggestion are kindly welcome.
 
+# Tips list
+- 01 - [Test ForceTouch in simulator](https://github.com/Yogesh-MV/iOS_tips/blob/master/ios_tips/2016-02-3-01-Test-ForceTouc-in-simulator.md)
+
 # License
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
