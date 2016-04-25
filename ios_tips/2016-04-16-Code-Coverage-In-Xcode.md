@@ -1,6 +1,6 @@
 ---
 title: Code coverage in Xcode
-tip-number: 01
+tip-number: 02
 tip-username: arasu01
 tip-username-profile: https://github.com/arasu01
 tip-description: Code coverage is a feature in Xcode 7 that enables you to visualize and measure how much of your code is being exercised by tests. With code coverage, you can determine whether your tests are doing the job you intended.
