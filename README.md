@@ -7,7 +7,7 @@ Please free to contribute your iOS_Tips here. Also any improvements and suggesti
 # Tips list
 - 01 - [Test ForceTouch in simulator](https://github.com/MallowTech/iOS_tips/blob/master/ios_tips/2016-03-01-Test-ForceTouc-in-simulator.md)
 - 02 - [Code Coverage in Xcode](https://github.com/MallowTech/iOS_tips/blob/master/ios_tips/2016-04-16-Code-Coverage-In-Xcode.md)
-- 03 - [Local for NSDateFormatter/NSNumberFormatter](https://github.com/MallowTech/iOS_tips/blob/master/ios_tips/2016-04-30-NSDateFormatters-NSNumberFormatter-Locale.md)
+- 03 - [Locale for NSDateFormatter/NSNumberFormatter](https://github.com/MallowTech/iOS_tips/blob/master/ios_tips/2016-04-30-NSDateFormatters-NSNumberFormatter-Locale.md)
 
 # License
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
