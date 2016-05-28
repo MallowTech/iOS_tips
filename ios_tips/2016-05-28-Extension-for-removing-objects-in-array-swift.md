@@ -1,5 +1,5 @@
 ---
-title: Creating `Array` in swift to remove object and remove identical objects.
+title: Creating `Array` extension in swift to remove object and remove identical objects.
 tip-number: 05
 tip-username: arasu01
 tip-username-profile: https://github.com/arasu01
