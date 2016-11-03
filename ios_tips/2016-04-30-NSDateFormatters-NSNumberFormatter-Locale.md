@@ -9,7 +9,3 @@ tip-description: When our app support does not support localisation (Consider ou
 `NSLocale *locale = [NSLocale localeWithLocaleIdentifier:@"en"];`
 
 ---
-#### Test Force Tocuh by using -[SBShortcutMenuSimulator](https://github.com/DeskConnect/SBShortcutMenuSimulator)
-
-####Note:
-If the testing is not working fine in simulator. Try resetting the simulator.
