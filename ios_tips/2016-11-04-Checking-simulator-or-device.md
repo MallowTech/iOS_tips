@@ -1,9 +1,9 @@
 ---
-title: Checking whether app is running on simulator or ios device.
-tip-number: 05
+title: Checking whether app is running in simulator or ios device.
+tip-number: 06
 tip-username: karthironald
 tip-username-profile: https://github.com/karthironald
-tip-description: The camera and mail like app in ios will not run in simulator, if you try to run in simulator means then it will get crash. So this tip will help you to find whether the app is running in **simulator** or **ios device** to save your valuable developing time.
+tip-description: The camera and mail like app in ios will not run in simulator, if you try to run in simulator means then it will get crash. So this tip will help you to find whether the app is running in simulator or ios device to save your valuable developing time.
 
 
 ---
