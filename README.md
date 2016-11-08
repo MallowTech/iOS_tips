@@ -5,6 +5,7 @@ Being an developer I want to share and collect the basic and important things in
 Please free to contribute your iOS_Tips here. Also any improvements and suggestion are kindly welcome.
 
 # Tips list
+- 06 - [Checking whether app is running in simulator or ios device] (https://github.com/karthironald/iOS_tips/blob/master/ios_tips/2016-11-04-Checking-simulator-or-device.md)
 - 05 - [Extension for removing objects in array swift](https://github.com/MallowTech/iOS_tips/blob/master/ios_tips/2016-05-28-Extension-for-removing-objects-in-array-swift.md)
 - 04 - [Locale for NSDateFormatter/NSNumberFormatter](https://github.com/MallowTech/iOS_tips/blob/master/ios_tips/2016-04-30-NSDateFormatters-NSNumberFormatter-Locale.md)
 - 03 - [UIWebView vs WKWebView Performance](https://github.com/MallowTech/iOS_tips/blob/master/ios_tips/2016-04-28-UIWebView-vs-WKWebView-Performance.md)
