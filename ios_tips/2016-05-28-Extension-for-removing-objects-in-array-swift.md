@@ -8,6 +8,8 @@ tip-description: In swift we don't have methods to remove the particular object,
 ---
 #### Code
 
+**Swift2**
+
     extension Array where Element: Equatable {
     
         // Returns the indexes of the object
@@ -35,4 +37,35 @@ tip-description: In swift we don't have methods to remove the particular object,
             }
          }
      }
+
+
+**Swift 3**
+
+	extension Array where Element: Equatable {
+	    
+	    // Returns the indexes of the object
+	    public func indexesOf(object: Element) -> [Int] {
+	        var indexes = [Int]()
+	        for index in 0..<self.count {
+	            if self[index] == object {
+	                indexes.append(index)
+	            }
+	        }
+	        return indexes
+	    }
+	    
+	    // Removes the first given object
+	    public mutating func removeObject(object: Element) {
+	        if let index = self.index(of: object) {
+	            self.remove(at: index)
+	        }
+	    }
+	    
+	    // Removes all occurrences of the given object
+	    public mutating func removeObjects(object: Element) {
+	        for i in self.indexesOf(object: object).reversed() {
+	            self.remove(at: i)
+	        }
+	    }
+	}
 
